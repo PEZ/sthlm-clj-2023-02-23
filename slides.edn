@@ -1,0 +1,9 @@
+{:slides ["hello.md",
+          "yay.md"
+          "vic-20.md"
+          "brooks.md",
+          "plotter.md",
+          "postscript.md",
+          "plain.md",
+          "clojure.md",
+          "thanks.md"]}

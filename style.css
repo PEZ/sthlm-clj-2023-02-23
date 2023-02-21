@@ -1,0 +1,63 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  padding-top: 20px;
+  overflow: hidden;
+}
+
+.small {
+  font-size: 80%;
+}
+
+.extra-large {
+  font-size: 300%;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+.slide {
+  height: 88vh;
+}
+
+.mb-0 {
+  margin-bottom: 0px;
+}
+
+.gutters-10 {
+  display: flex;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.gutters-10 > * {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.gutters-10.lc-0 :last-child {
+  width: 0;
+}
+
+
+.nav {
+  font-size: small;
+  position: fixed;
+  bottom: 4px;
+}
+.imageBox {
+  position: relative;
+  float: left;
+  width: 90%;
+}
+
+.imageBox .hoverImg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: none;
+}
+
+.imageBox:hover .hoverImg {
+  display: block;
+}
