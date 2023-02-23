@@ -18,7 +18,7 @@
 
   </div>
 
-<div style="display: flex; margin-top: 40px;">
+<div style="display: flex; margin-top: 5px;">
 <div style="display: inline-block;">
 
 ## Questions?
@@ -27,8 +27,8 @@ E.g: What do you use for your slides?
 </div>
 <div style="display: inline-block; margin-left: 100px">
 
-## Follow/Connect
 I'm looking for a new contract from June 2023. 
+
 * https://github.com/PEZ
 * https://twitter.com/pappapez
 * https://www.linkedin.com/in/cospaia/

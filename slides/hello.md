@@ -33,7 +33,7 @@ sthlm.clj February 23, 2023
 </div>
 
 
-<div style="display: flex; flex-direction: column; justify-content: space-between; margin-top: 50px">
+<div style="display: flex; flex-direction: column; justify-content: space-between; margin-top: 0px">
   
   <div style="display: flex; flex: 2; flex-direction: column; justify-content: space-between; margin-top: 0; margin-bottom: 50px;">
     <div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;">
